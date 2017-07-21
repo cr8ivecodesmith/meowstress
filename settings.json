@@ -1,0 +1,22 @@
+{
+    "class": "fighting",
+    "support_skills": {
+        "A": [
+        ],
+        "B": [
+        ],
+        "C": [
+            "Big Boomerang"
+        ]
+    },
+    "passive_skills": {
+        "A": [
+        ],
+        "B": [
+            "Earplugs"
+        ],
+        "C": [
+            "Boomerang Pro"
+        ]
+    }
+}
