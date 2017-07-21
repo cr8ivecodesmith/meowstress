@@ -20,5 +20,8 @@ python3 meow.py
 ```
 
 
+![usage](screenshot.png "Usage")
+
+
 [1]: https://www.reddit.com/r/MonsterHunter/comments/4tfy86/palico_skill_distribution_guide_how_palico_skill/
 [2]: https://github.com/cr8ivecodesmith/meowstress/blob/master/lib/skill_data.csv
