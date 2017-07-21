@@ -1,0 +1,64 @@
+"name","type","group","cost","bherna_chance","kokoto_chance","pokke_chance","yukumo_chance"
+"Health Horn","Support","A",3,0.15,0.1,0.5,0.15
+"Anti-Monster Mine+","Support","A",3,0.15,0.25,0.05,0.05
+"Pilfer","Support","A",3,0.1,0.05,0.05,0.2
+"Pitfall Purr-ison","Support","A",3,0.15,0.05,0.15,0.25
+"Shock Purr-ison","Support","A",3,0.15,0.05,0.15,0.25
+"Giga Barrel Bombay","Support","A",3,0.15,0.25,0.05,0.05
+"Rath-of-Meow","Support","A",3,0.15,0.25,0.05,0.05
+"Claw Dance","Support","B",2,0.1,0.18,0.03,0.03
+"Weapon Upgrade","Support","B",2,0.1,0.13,0.03,0.03
+"Trampoliner","Support","B",2,0.1,0.04,0.1,0.25
+"Go, Fight, Win","Support","B",2,0.1,0.04,0.1,0.25
+"Detox Horn","Support","B",2,0.1,0.04,0.3,0.1
+"Vase of Vitality","Support","B",2,0.1,0.04,0.3,0.1
+"Mega Boomerang","Support","B",2,0.1,0.13,0.03,0.03
+"Flash Bombay","Support","B",2,0.1,0.04,0.05,0.15
+"Big Barrel Bombay","Support","B",2,0.1,0.18,0.03,0.03
+"Anti-Monster Mine","Support","B",2,0.1,0.18,0.03,0.03
+"Sumo Stomp","Support","C",1,0.08,0.1,0.04,0.04
+"Felyne Comet","Support","C",1,0.08,0.1,0.04,0.04
+"Dung Bombay","Support","C",1,0.07,0.04,0.15,0.2
+"Ultrasonic Horn","Support","C",1,0.08,0.04,0.1,0.25
+"Soothing Roll","Support","C",1,0.08,0.04,0.15,0.04
+"Parting Gift","Support","C",1,0.08,0.04,0.24,0.04
+"Excavator","Support","C",1,0.07,0.1,0.04,0.04
+"Big Boomerang","Support","C",1,0.08,0.1,0.04,0.04
+"Shock Tripper","Support","C",1,0.08,0.04,0.04,0.15
+"Chestnut Cannon","Support","C",1,0.08,0.1,0.04,0.04
+"Barrel Bombay","Support","C",1,0.08,0.1,0.04,0.04
+"Bounce Bombay","Support","C",1,0.07,0.1,0.04,0.04
+"Explosive Roll","Support","C",1,0.07,0.1,0.04,0.04
+"Element Attack Up","Passive","A",3,0.15,0.25,0.05,0.05
+"Status Attack Up","Passive","A",3,0.1,0.25,0.05,0.1
+"Anger Prone","Passive","A",3,0.15,0.25,0.05,0.05
+"Revival Pro","Passive","A",3,0.15,0.05,0.3,0.15
+"Omniresistance","Passive","A",3,0.15,0.05,0.25,0.05
+"Support Priority","Passive","A",3,0.15,0.05,0.15,0.35
+"Support Move +1","Passive","A",3,0.15,0.1,0.15,0.25
+"Attack Up L","Passive","B",2,0.1,0.2,0.05,0.05
+"Critical Up L","Passive","B",2,0.08,0.15,0.05,0.05
+"Defense Up L","Passive","B",2,0.1,0.15,0.25,0.05
+"Health Up L","Passive","B",2,0.1,0.05,0.2,0.05
+"Nine Lives (Attack)","Passive","B",2,0.08,0.15,0.05,0.05
+"Guard L","Passive","B",2,0.1,0.05,0.05,0.2
+"Knockout King","Passive","B",2,0.08,0.05,0.05,0.2
+"Earplugs","Passive","B",2,0.08,0.05,0.1,0.05
+"Negate Stun","Passive","B",2,0.08,0.05,0.15,0.05
+"Counter Boost","Passive","B",2,0.1,0.15,0.05,0.05
+"Support Boost","Passive","B",2,0.1,0.05,0.05,0.2
+"Critical Up S","Passive","C",1,0.06,0.2,0.03,0.04
+"Health Up S","Passive","C",1,0.08,0.06,0.08,0.15
+"Nine Lives (Defense)","Passive","C",1,0.06,0.04,0.08,0.1
+"Boomerang Pro","Passive","C",1,0.06,0.15,0.03,0.04
+"Stamina Drain","Passive","C",1,0.06,0.15,0.03,0.1
+"Non-Stick Fur","Passive","C",1,0.06,0.04,0.08,0.15
+"Negate Wind","Passive","C",1,0.08,0.04,0.08,0.04
+"Negate Sleep","Passive","C",1,0.06,0.04,0.08,0.04
+"Iron Hide","Passive","C",1,0.06,0.04,0.08,0.04
+"Negate Paralysis","Passive","C",1,0.06,0.04,0.08,0.04
+"Tremor Res","Passive","C",1,0.06,0.04,0.08,0.04
+"Negate Poison","Passive","C",1,0.08,0.04,0.08,0.04
+"Biology","Passive","C",1,0.06,0.04,0.08,0.04
+"Negate Confusion","Passive","C",1,0.08,0.04,0.08,0.04
+"Goldenfish Catcher","Passive","C",1,0.08,0.04,0.03,0.1
