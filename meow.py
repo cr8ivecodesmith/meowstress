@@ -142,9 +142,10 @@ def main():
                 out[k] = []
             out[k].append(v)
 
-    out = {k: '{:.2f}%'.format(ave_chance(v)) for k, v in out.items()}
-    for k, v in out.items():
-        print('{}: {}'.format(k, v))
+    out = {k: ave_chance(v) for k, v in out.items()}
+    for k, v in sorted([i for i in out.items()], key=lambda x: x[1],
+                       reverse=True):
+        print('{}: {:.2f}%'.format(k, v))
 
 
 if __name__ == '__main__':
